@@ -1,5 +1,6 @@
 
 ## macOS Version
+      * macOS Big Sur 11.1
 
 ### Device Lists
 | Device | Model |
@@ -17,27 +18,33 @@
 #### Boot firmware
 | Boot | Versions |
 |---|---|
-| OpenCore | [Latest release(0.6.3)](https://github.com/acidanthera/OpenCorePkg) |
+| OpenCore | [Latest release(0.6.4)](https://github.com/acidanthera/OpenCorePkg) |
 
 #### Kext
 | Kext | Downloads |
 |---|---|
-| Lilu | [Latest release(1.4.9)](https://github.com/acidanthera/Lilu) |
-| VirtualSMC, SMCProcessor, SMCSuperIO | [Latest release(1.1.8)](https://github.com/acidanthera/VirtualSMC) |
-| WhateverGreen | [Latest release(1.3.7)](https://github.com/bugprogrammer/WhateverGreen) Revision |
-| AppleALC | [Latest release(1.5.4)](https://github.com/acidanthera/AppleALC/) |
+| Lilu | [Latest release(1.5.0)](https://github.com/acidanthera/Lilu) |
+| VirtualSMC, SMCProcessor, SMCSuperIO | [Latest release(1.1.9)](https://github.com/acidanthera/VirtualSMC) |
+| WhateverGreen | [Latest release(1.4.5)](https://github.com/acidanthera/WhateverGreen) |
+| AppleALC | [Latest release(1.5.5)](https://github.com/acidanthera/AppleALC/) |
 | IntelMausi | [Latest release(1.0.4)](https://github.com/acidanthera/IntelMausi) |
 | USBInjectAll | [Version: 2018-1108](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/) |
 
 #### EFI
 
 ### BIOS Settings
-    * BIOS Verion 4.30
+     * BIOS Verion 4.30
 
 ### Changelog
 #### 11/21/2020
      * Update OpenCore 0.6.3
      * Update Lilu 1.4.9
-     * Update VirualSMC, CMCProcessor, SMCSuperIO 1.1.8
+     * Update VirtualSMC, CMCProcessor, SMCSuperIO 1.1.8
      * Update AppleALC 1.5.4
      * Update IntelMausi 1.0.4 
+
+#### 1/1/2021
+     * Update OpenCore 0.6.4
+     * Update Lilu 1.5.0
+     * Update VirtualSMC, CMCProcessor, SMCSuperIO 1.1.9
+     * Update AppleALC 1.5.5
