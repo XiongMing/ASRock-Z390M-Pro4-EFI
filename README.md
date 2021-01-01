@@ -10,6 +10,7 @@
 | RAM | Kingston 8GB (3200 MHz) * 2 |
 | Video Card | Sapphire RX 580 8GB |
 | Network Interface Card | |
+| WiFi | BCM 943602CS |
 | Hard Disk | Samsung 970 EVO 500GB |
 | Case | JONSBO UMX4 |
 | Monitor | |
