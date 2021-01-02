@@ -28,8 +28,9 @@
 | VirtualSMC, SMCProcessor, SMCSuperIO | [Latest release(1.1.9)](https://github.com/acidanthera/VirtualSMC) |
 | WhateverGreen | [Latest release(1.4.5)](https://github.com/acidanthera/WhateverGreen) |
 | AppleALC | [Latest release(1.5.5)](https://github.com/acidanthera/AppleALC/) |
+| NVMeFix | [Latest release(1.0.4)](https://github.com/acidanthera/NVMeFix/) |
 | IntelMausi | [Latest release(1.0.4)](https://github.com/acidanthera/IntelMausi) |
-| USBInjectAll | [Version: 2018-1108](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/) |
+| USBInjectAll | [Latest release(0.7.5)](https://github.com/Sniki/OS-X-USB-Inject-All) |
 
 #### EFI
 
@@ -49,3 +50,7 @@
      * Update Lilu 1.5.0
      * Update VirtualSMC, CMCProcessor, SMCSuperIO 1.1.9
      * Update AppleALC 1.5.5
+
+#### 1/2/2021
+     * Update USBInjectAll 0.7.5
+     * Update NVMeFix 1.0.4
