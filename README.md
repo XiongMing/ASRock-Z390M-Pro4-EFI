@@ -1,7 +1,7 @@
 
 # macOS Version
 
-      * macOS Big Sur 11.4
+     * macOS Big Sur 12.3.1
 
 ## Device Lists
 
@@ -15,7 +15,7 @@
 | WiFi | BCM 943602CS |
 | Hard Disk | Samsung 970 EVO 500GB |
 | Case | JONSBO UMX4 |
-| Monitor | |
+| Monitor | DELL U2718Q (3840 * 2160) |
 
 ## Software Version
 
@@ -23,9 +23,10 @@
 
 | Boot | Versions |
 |---|---|
-| OpenCore | [Latest release(0.6.9)](https://github.com/acidanthera/OpenCorePkg) |
+| OpenCore | [Latest release(0.8.0)](https://github.com/acidanthera/OpenCorePkg) |
 
 ### Kext
+
 | Kext | Downloads |
 |---|---|
 | Lilu | [Latest release(1.6.0)](https://github.com/acidanthera/Lilu) |
