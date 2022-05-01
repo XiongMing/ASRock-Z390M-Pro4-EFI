@@ -1,7 +1,7 @@
 
 # macOS Version
 
-     * macOS Big Sur 12.3.1
+     * macOS Monterey 12.3.1
 
 ## Device Lists
 
