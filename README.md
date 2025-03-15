@@ -1,7 +1,7 @@
 
 # macOS Version
 
-     * macOS Monterey 12.3.1
+     * macOS Sonoma 14.2.1
 
 ## Device Lists
 
@@ -23,18 +23,18 @@
 
 | Boot | Versions |
 |---|---|
-| OpenCore | [Latest release(0.8.0)](https://github.com/acidanthera/OpenCorePkg) |
+| OpenCore | [Latest release(1.0.4)](https://github.com/acidanthera/OpenCorePkg) |
 
 ### Kext
 
 | Kext | Downloads |
 |---|---|
-| Lilu | [Latest release(1.6.0)](https://github.com/acidanthera/Lilu) |
-| VirtualSMC, SMCProcessor, SMCSuperIO | [Latest release(1.2.9)](https://github.com/acidanthera/VirtualSMC) |
-| WhateverGreen | [Latest release(1.5.8)](https://github.com/acidanthera/WhateverGreen) |
-| AppleALC | [Latest release(1.7.1)](https://github.com/acidanthera/AppleALC/) |
-| NVMeFix | [Latest release(1.0.9)](https://github.com/acidanthera/NVMeFix/) |
-| IntelMausi | [Latest release(1.0.7)](https://github.com/acidanthera/IntelMausi) |
+| Lilu | [Latest release(1.7.0)](https://github.com/acidanthera/Lilu) |
+| VirtualSMC, SMCProcessor, SMCSuperIO | [Latest release(1.3.5)](https://github.com/acidanthera/VirtualSMC) |
+| WhateverGreen | [Latest release(1.6.9)](https://github.com/acidanthera/WhateverGreen) |
+| AppleALC | [Latest release(1.9.4)](https://github.com/acidanthera/AppleALC/) |
+| NVMeFix | [Latest release(1.1.2)](https://github.com/acidanthera/NVMeFix/) |
+| IntelMausi | [Latest release(1.0.8)](https://github.com/acidanthera/IntelMausi) |
 | USBInjectAll | [Latest release(0.7.6)](https://github.com/Sniki/OS-X-USB-Inject-All) |
 
 ### EFI
@@ -85,3 +85,13 @@
      * Update IntelMausi 1.0.7
      * Update NVMeFix 1.0.9
      * Update WhateverGreen 1.5.8
+
+### 3/15/2025
+
+     * Update OpenCore 1.0.4
+     * Update Lilu 1.7.0
+     * Update VirtualSMC, SMCProcessor, SMCSuperIO 1.6.9
+     * Update AppleALC 1.9.4
+     * Update IntelMausi 1.0.8
+     * Update NVMeFix 1.1.2
+     * Update WhateverGreen 1.6.9
