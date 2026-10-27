@@ -23,17 +23,17 @@
 
 | Boot | Versions |
 |---|---|
-| OpenCore | [Latest release(1.0.4)](https://github.com/acidanthera/OpenCorePkg) |
+| OpenCore | [Latest release(1.0.8)](https://github.com/acidanthera/OpenCorePkg) |
 
 ### Kext
 
 | Kext | Downloads |
 |---|---|
 | Lilu | [Latest release(1.7.0)](https://github.com/acidanthera/Lilu) |
-| VirtualSMC, SMCProcessor, SMCSuperIO | [Latest release(1.3.5)](https://github.com/acidanthera/VirtualSMC) |
-| WhateverGreen | [Latest release(1.6.9)](https://github.com/acidanthera/WhateverGreen) |
-| AppleALC | [Latest release(1.9.4)](https://github.com/acidanthera/AppleALC/) |
-| NVMeFix | [Latest release(1.1.2)](https://github.com/acidanthera/NVMeFix/) |
+| VirtualSMC, SMCProcessor, SMCSuperIO | [Latest release(1.3.7)](https://github.com/acidanthera/VirtualSMC) |
+| WhateverGreen | [Latest release(1.7.0)](https://github.com/acidanthera/WhateverGreen) |
+| AppleALC | [Latest release(1.9.8)](https://github.com/acidanthera/AppleALC/) |
+| NVMeFix | [Latest release(1.1.3)](https://github.com/acidanthera/NVMeFix/) |
 | IntelMausi | [Latest release(1.0.8)](https://github.com/acidanthera/IntelMausi) |
 | USBInjectAll | [Latest release(0.7.6)](https://github.com/Sniki/OS-X-USB-Inject-All) |
 
@@ -90,8 +90,17 @@
 
      * Update OpenCore 1.0.4
      * Update Lilu 1.7.0
-     * Update VirtualSMC, SMCProcessor, SMCSuperIO 1.6.9
+     * Update VirtualSMC, SMCProcessor, SMCSuperIO 1.3.5
      * Update AppleALC 1.9.4
      * Update IntelMausi 1.0.8
      * Update NVMeFix 1.1.2
      * Update WhateverGreen 1.6.9
+
+### 10/28/2026
+
+     * Update OpenCore 1.0.8
+     * Update Lilu 1.7.1
+     * Update VirtualSMC, SMCProcessor, SMCSuperIO 1.3.7
+     * Update AppleALC 1.9.8
+     * Update NVMeFix 1.1.3
+     * Update WhateverGreen 1.7.0
